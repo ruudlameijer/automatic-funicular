@@ -126,7 +126,7 @@
       }
     }
   },
-  "name": "Blank",
+  "name": "Blank (REL1_bugfixing)",
   "imgPattern": 4,
   "showInitials": false,
   "metrics": {
@@ -184,11 +184,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 26,
+    "versionNumber": 27,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1630082216492
+    "lastModifiedOn": 1630082216520
   },
   "creationTag": {
     "versionNumber": 0,
@@ -198,7 +198,7 @@
     "lastModifiedOn": 1492181307419
   },
   "description": "# Welcome to the first DSS tutorial\n\n\u003cp class\u003d\"text-center\"\u003e\n   \u003ca href\u003d\"https://academy.dataiku.com/basics-101\" target\u003d\"_blank\" class\u003d\"btn btn-datasets-color btn-cta-big-mod\"\u003e\u003ci class\u003d\"icon-dku-sample_project\" class\u003d\"btn-cta-big-mod-icon\" /\u003e\u0026nbsp;Go to the Course on Dataiku Academy\n  \u003c/a\u003e\n\u003c/p\u003e\n\nIn this tutorial, we will learn step by step how to load a file in DSS, clean it up and visualize data.",
-  "shortDesc": "The project *Blank* was created by Administrator on Aug 26th 2021",
+  "shortDesc": "The project *Blank* was created by Administrator on Aug 26th 2021\nThe project *BLANK_REL1_BUGFIXING* was copied from *BLANK* by Administrator on Aug 27th 2021",
   "tags": [
     "tutorial",
     "academy",
