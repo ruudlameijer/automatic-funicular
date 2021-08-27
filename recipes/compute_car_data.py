@@ -11,6 +11,8 @@ cars = {'Brand': ['Honda Civic','Toyota Corolla','Ford Focus','Audi A4'],
 # Convert to dataframe
 car_data_df = pd.DataFrame(cars, columns = ['Brand', 'Price'])
 
+# Change that is not part of REL 1
+
 # Write recipe outputs
 car_data = dataiku.Dataset("car_data")
 car_data.write_with_schema(car_data_df)
