@@ -14,7 +14,7 @@
     "users": []
   },
   "tutorialProject": true,
-  "tutorialId": "DKU_TUTORIAL_BASICS",
+  "tutorialId": "DKU_TUTORIAL_BASICS_101",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "gitCommitMode": "AUTO",
@@ -121,7 +121,8 @@
       }
     }
   },
-  "name": "Basics 101 (Tutorial)",
+  "name": "Basics 101 for Ruud Lameijer",
+  "projectStatus": "Sandbox",
   "imgPattern": 4,
   "showInitials": false,
   "metrics": {
@@ -179,11 +180,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 22,
+    "versionNumber": 23,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1630068941995
+    "lastModifiedOn": 1630068944364
   },
   "creationTag": {
     "versionNumber": 0,
