@@ -4,8 +4,8 @@ import pandas as pd, numpy as np
 from dataiku import pandasutils as pdu
 
 # Generate some data
-cars = {'Brand': ['Honda Civic','Toyota Corolla','Ford Focus','Audi A4'],
-        'Price': [22000,25000,27000,35000]
+cars = {'Brand': ['Honda Civic','Toyota Corolla','Ford Focus','Audi A4','Mercedes S500'],
+        'Price': [22000,25000,27000,35000,79000]
         }
 
 # Convert to dataframe
