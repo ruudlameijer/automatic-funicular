@@ -121,7 +121,7 @@
       }
     }
   },
-  "name": "Basics 101 for Ruud Lameijer",
+  "name": "Git testing project",
   "projectStatus": "Sandbox",
   "imgPattern": 4,
   "showInitials": false,
@@ -180,11 +180,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 23,
+    "versionNumber": 24,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1630068944364
+    "lastModifiedOn": 1630068957380
   },
   "creationTag": {
     "versionNumber": 0,
