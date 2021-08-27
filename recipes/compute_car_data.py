@@ -14,3 +14,5 @@ car_data_df = pd.DataFrame(cars, columns = ['Brand', 'Price'])
 # Write recipe outputs
 car_data = dataiku.Dataset("car_data")
 car_data.write_with_schema(car_data_df)
+
+# This is the bugfix on Release 1
