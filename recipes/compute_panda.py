@@ -11,5 +11,5 @@ car_brands = {'Brand': ['Honda Civic','Toyota Corolla','Ford Focus','Audi A4'],
 panda_df = pd.DataFrame(car_brands, columns = ['Brand', 'Price'])
 
 # Write recipe outputs
-cars = dataiku.Dataset("panda")
+cars = dataiku.Dataset("car_brands")
 cars.write_with_schema(panda_df)
